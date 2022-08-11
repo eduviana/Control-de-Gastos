@@ -42,4 +42,4 @@ react-swipeable-list: ^1.5.0
 
 - Eduardo Daniel Viana
 - Email: eduardoviana83@gmail.com
-- Url: [https://eduviana.github.io/Administrador-de-Pacientes/](https://eduviana.github.io/Administrador-de-Pacientes/)
+- Url: [https://eduviana.github.io/Control-de-Gastos/](https://eduviana.github.io/Control-de-Gastos/)
